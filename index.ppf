@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="The Posture Matters" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="First_Topic.htm">
+    
+    <topic>
+      First_Topic.htm
+    </topic>
+    
+    <topic>
+      Introduction.htm
+    </topic>
+    
+    <topic>
+      What_is_the_problem_with_sitting_.htm
+    </topic>
+    
+    <topic>
+      Bending_backward_to_revert_to_the_correct_posture.htm
+    </topic>
+    
+    <topic>
+      The_correct_order_to_work_out.htm
+    </topic>
+    
+    <topic>
+      Exercise_series_to_achieve_Uttida_Parsvakonasana.htm
+    </topic>
+    
+    <topic>
+      Chadhuranga_Astanga_Namaskar.htm
+    </topic>
+    
+    <topic>
+      Nagasana.htm
+    </topic>
+    
+    <topic>
+      Yogawheel_Backbend.htm
+    </topic>
+    
+    <topic>
+      Ashwa_Sanchalan_asana.htm
+    </topic>
+    
+    <topic>
+      Trigonasana.htm
+    </topic>
+    
+    <topic>
+      Pigeon.htm
+    </topic>
+    
+    <topic>
+      Parsvottan_asana.htm
+    </topic>
+    
+    <topic>
+      Adho_Mukha_Swan_Asana.htm
+    </topic>
+    
+    <topic>
+      Veera_Badra_Asana.htm
+    </topic>
+    
+    <topic>
+      Uttida_Parsvakonasana.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>
